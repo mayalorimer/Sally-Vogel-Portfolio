@@ -9,26 +9,6 @@ export default function Resume() {
       <p>
         Download my <a href="https://drive.google.com/file/d/1D49Msmo5hicXxbs88ECxzEADOflGRxp-/view?usp=sharing" target="_blank" rel="noreferrer">Resume</a>
       </p>
-      <h3>Front-End Proficiencies</h3>
-      <ul>
-        <li>HTML</li>
-        <li>CSS</li>
-        <li>JavaScript</li>
-        <li>jQuery</li>
-        <li>Responsive design</li>
-        <li>React</li>
-        <li>Bootstrap</li>
-      </ul>
-      <h3>Back-End Proficiencies</h3>
-      <ul>
-      <li>APIs</li>
-      <li>Node</li>
-      <li>Express</li>
-      <li>REST</li>
-      <li>MySQL, Sequelize</li>
-      <li>NoSQL</li>
-      <li>MongoDB, Mongoose</li>
-      </ul>
     </div>
   );
 }

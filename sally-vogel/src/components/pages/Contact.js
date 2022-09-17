@@ -56,7 +56,7 @@ export default function Contact() {
         <Form.Label>Message: </Form.Label>
         <Form.Control as="textarea" rows={3} name="message" onBlur={handleChange}/>
         <Form.Text className="text-muted">
-          This form is not currently connected. Please contact me at maya.lorimer@yahoo.com with any questions.
+          This form is not currently connected. Please contact me at vogel1@kenyon.edu with any questions.
         </Form.Text>
       </Form.Group>
 
