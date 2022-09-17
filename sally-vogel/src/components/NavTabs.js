@@ -7,7 +7,7 @@ function NavTabs({ currentPage, handlePageChange }) {
     <div>
       <ul className="nav nav-tabs">
         <li class="myName">
-          Maya Lorimer   
+          Sally Vogel  
         </li>
         <li className="nav-item">
           <a
