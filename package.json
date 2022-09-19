@@ -1,6 +1,7 @@
 {
-  "name": "maya-lorimer-portfolio",
+  "name": "sally-vogel-portfolio",
   "version": "0.1.0",
+  "homepage": "https://mayalorimer.github.io/Sally-Vogel-Portfolio",
   "private": true,
   "dependencies": {
     "@coreui/react": "^4.3.0",
@@ -10,7 +11,6 @@
     "axios": "^0.27.2",
     "bootstrap": "^5.2.0",
     "dotenv": "^16.0.1",
-    "gh-pages": "^4.0.0",
     "react": "^17.0.2",
     "react-bootstrap": "^2.4.0",
     "react-dom": "^17.0.2",
@@ -45,5 +45,7 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://mayalorimer.github.io/Maya-Lorimer-Portfolio"
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
+  }
 }
