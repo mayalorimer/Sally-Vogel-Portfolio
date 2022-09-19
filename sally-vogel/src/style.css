@@ -136,3 +136,10 @@ body {
   .links:visited {
     color: #516292;
   }
+
+  .resumeImg{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 75%;
+  }
