@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Maya-Lorimer-Portfolio/static/css/main.e5edd730.css",
+    "main.js": "/Maya-Lorimer-Portfolio/static/js/main.6c7a34d8.js",
+    "static/media/softLine.jpg": "/Maya-Lorimer-Portfolio/static/media/softLine.cb9cba1239e2f3532594.jpg",
+    "static/media/theChairs.jpg": "/Maya-Lorimer-Portfolio/static/media/theChairs.db5a1bdd06a90f8c9df9.jpg",
+    "static/media/headshot.jpeg": "/Maya-Lorimer-Portfolio/static/media/headshot.7741b3e88a5e16d0ce57.jpeg",
+    "static/media/memorial.jpg": "/Maya-Lorimer-Portfolio/static/media/memorial.5d4ccfca98b14344e7c3.jpg",
+    "static/media/vogelResume.jpg": "/Maya-Lorimer-Portfolio/static/media/vogelResume.11e2df72c7a7c5eae150.jpg",
+    "index.html": "/Maya-Lorimer-Portfolio/index.html",
+    "main.e5edd730.css.map": "/Maya-Lorimer-Portfolio/static/css/main.e5edd730.css.map",
+    "main.6c7a34d8.js.map": "/Maya-Lorimer-Portfolio/static/js/main.6c7a34d8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e5edd730.css",
+    "static/js/main.6c7a34d8.js"
+  ]
+}
