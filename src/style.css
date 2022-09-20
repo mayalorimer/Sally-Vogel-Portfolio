@@ -1,3 +1,11 @@
+/* CSS HEX */
+/* --tan: #D9BC92ff;
+--coffee: #674D36ff;
+--usafa-blue: #0E5191ff;
+--prussian-blue: #0D305Bff;
+purple: #392365
+ */
+
 body {
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
 }
@@ -18,14 +26,14 @@ body {
 }
 
 .nav {
-    background-color: #D2C5E1;
+    background-color: #E7CDAA;
     margin-top: 0px;
     padding-top: 0px; 
     width: 100%; 
 }
 
 .nav-item {
-    color: #645460;
+    color: #392365;
     padding-top: 2%;
 }
 
@@ -37,7 +45,7 @@ body {
     font-weight: bolder;
     position: relative;
     padding-top: 15px;
-    color: #645460;
+    color: #392365;
 }
 
 .about,
@@ -55,15 +63,6 @@ body {
     margin-left: 15%;
     margin-bottom: 100px;
 }
-
-.footer {
-    position:fixed;
-    bottom:0;
-    left:0;
-    width:100%;
-    height: 50px;
-    background-color: #D2C5E1;
-  }
   
   a.menu:hover {
     font-size:20px;
@@ -114,15 +113,15 @@ body {
 
   a {
     text-decoration: none;
-    color: #645460;
+    color: #392365;
   }
 
   .nav-link {
-    color: #516292;
+    color: #392365;
   }
   .nav-link:visited {
     text-decoration: none;
-    color: #516292;
+    color: #392365;
   }
 
   .tech {
